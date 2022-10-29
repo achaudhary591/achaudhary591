@@ -41,8 +41,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.snsohanjain.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.snsohanjain.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sohanjainsn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sohanjainsn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/iamsohanjain/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamsohanjain-blue?style=flat-square&logo=instagram"></a>
-<a href="sohanjainsn2022@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sohanjainsn2022%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.achaudhary591.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.achaudhary591.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/achaudhary591/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-achaudhary591-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/aksh_empiricist/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aksh_empiricist-blue?style=flat-square&logo=instagram"></a>
+<a href="achaudhary591@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-achaudhary591%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
