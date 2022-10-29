@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.crio.do/learn/portfolio/achaudhary591/"><img alt="Website" src="https://img.shields.io/badge/Website-https://www.crio.do/learn/portfolio/achaudhary591/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.crio.do/learn/portfolio/achaudhary591/"><img alt="Website" src="https://img.shields.io/badge/Website-/achaudhary591/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/achaudhary591/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-achaudhary591-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/aksh_empiricist/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aksh_empiricist-blue?style=flat-square&logo=instagram"></a>
 <a href="achaudhary591@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-achaudhary591%40gmail.com-blue?style=flat-square&logo=gmail"></a>
