@@ -21,6 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mongodb/mongo/ab34541c92e3ee679ea155b6331253a4e031d451/docs/leaf.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -41,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.crio.do/learn/portfolio/achaudhary591/"><img alt="Website" src="https://img.shields.io/badge/Website-/achaudhary591/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.crio.do/learn/portfolio/achaudhary591/"><img alt="Website" src="https://img.shields.io/badge/Website-achaudhary591-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/achaudhary591/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-achaudhary591-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/aksh_empiricist/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aksh_empiricist-blue?style=flat-square&logo=instagram"></a>
 <a href="achaudhary591@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-achaudhary591%40gmail.com-blue?style=flat-square&logo=gmail"></a>
