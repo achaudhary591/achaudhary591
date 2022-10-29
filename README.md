@@ -1,16 +1,48 @@
-### Hi there 👋
+<img align="right" src="https://github.com/snsohanjain/Personal-Stuff-/blob/af3b260c4d578b51e07925f928be79822b4acdcc/Images/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
-<!--
-**achaudhary591/achaudhary591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Akshya Chaudhary 🙋‍♂️ </h2>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; Proficient in problem solving and open to learn new technologies.
+- 🎓 &nbsp; I'm new a doer , who restarted my life as a coder.
+- 💼 &nbsp; Interested in right swiping the backend technologies.
+- 🌱 &nbsp; Backend is built different thats why i love to build backend APIs and logic using DSA and Design pattern.
+- 🐱‍🚀 &nbsp; Assasin who believe in team work.
+- 🐾 &nbsp; Have experienced the flow and power of Agile Methodology.
+
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+**Technologies & Tools:** 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
+ 
+<br/>
+
+<a href="https://github.com/snsohanjain">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=achaudhary591&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achaudhary591&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.snsohanjain.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.snsohanjain.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/sohanjainsn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sohanjainsn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/iamsohanjain/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamsohanjain-blue?style=flat-square&logo=instagram"></a>
+<a href="sohanjainsn2022@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sohanjainsn2022%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
