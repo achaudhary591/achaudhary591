@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Proficient in problem solving and open to learn new technologies.
-- 🎓 &nbsp; I'm new a doer , who restarted my life as a coder.
+- 🎓 &nbsp; I'm a doer , who restarted my life as a coder.
 - 💼 &nbsp; Interested in right swiping the backend technologies.
 - 🌱 &nbsp; Backend is built different thats why i love to build backend APIs and logic using DSA and Design pattern.
 - 🐱‍🚀 &nbsp; Assasin who believe in team work.
