@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/snsohanjain/Personal-Stuff-/blob/af3b260c4d578b51e07925f928be79822b4acdcc/Images/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://github.com/achaudhary591/private-images/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
 <h2> Hey there! I'm Akshya Chaudhary 🙋‍♂️ </h2>
 
@@ -32,7 +32,7 @@
  
 <br/>
 
-<a href="https://github.com/snsohanjain">
+<a href="https://github.com/achaudhary591">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=achaudhary591&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achaudhary591&theme=buefy&layout=compact" />
 </a>
