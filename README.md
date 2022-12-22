@@ -32,6 +32,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 <code><img height="20" src="https://img.icons8.com/bubbles/344/github.png"></code>
 <code><img height="20" src="https://github.com/achaudhary591/private-images/blob/main/icon_flutter.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></code>
  
 <br/>
 
